@@ -6,7 +6,7 @@
 
 This organization collects the open-source repositories that make up the **brim ecosystem** — a standardized framework for storing, sharing, and analyzing data from Brillouin light scattering (BLS) microscopy.
 
-> **Reference publication:** Bevilacqua, Hambura, Bouvet et al., *"A standardized file format and open-source analysis framework for Brillouin microscopy data"* · [arXiv:2509.07566](https://arxiv.org/abs/2509.07566)
+> **Reference publication:** Bevilacqua, Hambura, Bouvet et al., *"Towards a standardized file format and open-source analysis framework for Brillouin microscopy data"* · [Nat Methods (2026)](https://doi.org/10.1038/s41592-026-03164-0)
 
 ---
 
