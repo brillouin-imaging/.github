@@ -10,6 +10,14 @@ This organization collects the open-source repositories that make up the **brim 
 
 ---
 
+## Getting started
+
+- **View and analyze data** in the browser: [biobrillouin.org/brimview](https://biobrillouin.org/brimview/)
+- **Read/write .brim files**: [prevedel-lab.github.io/brimfile](https://prevedel-lab.github.io/brimfile/)
+- **Validate a brim file** online (no installation needed): [biobrillouin.org/brim-validator](https://biobrillouin.org/brim-validator/)
+
+---
+
 ## Why brim?
 
 Brillouin microscopy enables label-free, non-contact 3D mapping of the viscoelastic properties of living cells and tissues. As the field grows, the lack of standardized methods for storing and analyzing spectral data has become a critical bottleneck — limiting reproducibility and making cross-lab comparisons difficult.
@@ -32,14 +40,6 @@ Together, these tools promote [FAIR data practices](https://doi.org/10.1038/sdat
 | [BrimView](https://github.com/brillouin-imaging/BrimView) | Browser-based GUI for visualization and real-time spectral analysis of `brim` files — no installation required |
 | [brillouin-imaging-napari](https://github.com/brillouin-imaging/brillouin-imaging-napari) | Napari plugin for opening and exploring `brim` files within the napari image viewer |
 | [brillouin-imaging-fiji](https://github.com/brillouin-imaging/brillouin-imaging-fiji) | ImageJ/Fiji plugin for opening `brim` files directly in ImageJ |
-
----
-
-## Getting started
-
-- **View and analyze data** in the browser: [biobrillouin.org/brimview](https://biobrillouin.org/brimview/)
-- **Read/write .brim files**: [prevedel-lab.github.io/brimfile](https://prevedel-lab.github.io/brimfile/)
-- **Validate a brim file** online (no installation needed): [biobrillouin.org/brim-validator](https://biobrillouin.org/brim-validator/)
 
 ---
 
