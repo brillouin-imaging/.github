@@ -13,7 +13,7 @@ This organization collects the open-source repositories that make up the **brim 
 ## Getting started
 
 - **View and analyze data** in the browser: [biobrillouin.org/brimview](https://biobrillouin.org/brimview/)
-- **Read/write .brim files**: [prevedel-lab.github.io/brimfile](https://prevedel-lab.github.io/brimfile/)
+- **Read/write .brim files**: [brillouin-imaging.github.io/brimfile](https://brillouin-imaging.github.io/brimfile/brimfile.html)
 - **Validate a brim file** online (no installation needed): [biobrillouin.org/brim-validator](https://biobrillouin.org/brim-validator/)
 
 ---
